@@ -1,3 +1,4 @@
+Intern id/CITS5151
 # EventHub — Event Management Portal
 
 A complete full stack web app for creating, browsing, and registering for events.
